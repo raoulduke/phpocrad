@@ -1,0 +1,13 @@
+# Eclipse project files
+.classpath
+.project
+.settings
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# ./tmp directory containing pgm files
+tmp/*.pgm
